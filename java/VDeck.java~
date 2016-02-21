@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+class VDeck{
+
+  public static void main(String[] args){
+  
+    ArrayList<Pile> deckAndDiscards = new ArrayList<Pile>();
+    ArrayList<Pile>
+  
+  }
+
+}
