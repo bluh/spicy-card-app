@@ -40,8 +40,8 @@
             android:gravity="center" >
 
             <Space
-                android:layout_width="30px"
-                android:layout_height="30px" />
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
         </LinearLayout>
 
         <LinearLayout

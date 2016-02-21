@@ -7,7 +7,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/card"
+        android:isGame="true"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -21,7 +22,8 @@
         <activity android:name=".MainMenu" />
         <activity android:name=".Connect" />
         <activity android:name=".Game" />
-        <activity android:name=".WaitingRoom"></activity>
+        <activity android:name=".WaitingRoom" />
+        <activity android:name=".MainGame" />
     </application>
 
 </manifest>
