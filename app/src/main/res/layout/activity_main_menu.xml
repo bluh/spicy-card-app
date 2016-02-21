@@ -53,7 +53,8 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:text="Build a Game"
-                android:id="@+id/build" />
+                android:id="@+id/build"
+                android:onClick="buildClick" />
         </LinearLayout>
     </LinearLayout>
 
